@@ -18,10 +18,12 @@ Voopsen team or V-crew is a developers team that manages and supports https://vo
 https://poker.voopsen.ru and https://animals.voopsen.ru.
 
 ## Github stats
-![stats](https://github-readme-stats.vercel.app/api?username=KirillBogatikov&count_private=true&show_icons=true)
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=KirillBogatikov)
-![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillBogatikov&hide=javascript,css,scss,html) 
-![trophy](https://github-profile-trophy.vercel.app/?username=KirillBogatikov) 
+<div style="display:flex;flex-direction:row;align-items:center;justify-content:center">
+<img src="https://github-readme-stats.vercel.app/api?username=KirillBogatikov&count_private=true&show_icons=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KirillBogatikov"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillBogatikov&hide=javascript,css,scss,html"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KirillBogatikov"/>
+</div>
 
 ## About my stack
 ### Languages
