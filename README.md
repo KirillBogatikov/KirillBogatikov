@@ -6,16 +6,19 @@ I liked writing my own android apps. 🩸 But over time, offline applications go
 server and create the first online application.
 
 ### 💻 Work
-Since **_2019_**, i'm working in **Smartway LLC** in my native city Penza. I am backend developer and use C# (.NET Framework and 
-.NET Core), Golang and Python on Docker. Sometimes i can make some changes in frontend (JS, React-Redux), but i am more
-interested in mobile dev and web ui dev on Typescript.
+Since **_2019_**, i'm working at **Smartway LLC** in my native city Penza. I am backend developer and use C# (.NET Framework and 
+.NET Core), Golang and Python, Docker for containers, Clickhouse, PostgreSQL, MSSQL, MongoDB as main databases and Kafka as message queue. 
+Sometimes i can make some changes in frontend (JS, React-Redux), but i am more interested in backend dev and frontend dev with Typescript.
 <br/>
+At start of **_2023_** I became a TeamLead of small team _f-avia_ that works with airline and railroad ticketing systems.
 I also create pet-projects. At the moment, they are all created only for the sake of experience and knowledge, 
 but those that are currently operating are designed to commercialize them in the future.
 
-### ⁉ Voopsen
-Voopsen team or V-crew is a developers team that manages and supports https://voopsen.ru and other projects like 
-https://poker.voopsen.ru and https://animals.voopsen.ru.
+### 🆓 Open source and charity
+At **_2022_** my brother opened a non-profit foundation to help underprivileged children, orphans and the elderly. I joined his team on a voluntary basis as a technical specialist and am now engaged in the support and development of information systems and the IT component of our organization.
+
+### ⁉ AntiCREW
+Secret side-project :D
 
 ## Github stats
 <div style="display:flex;flex-direction:row;align-items:center;justify-content:center">
